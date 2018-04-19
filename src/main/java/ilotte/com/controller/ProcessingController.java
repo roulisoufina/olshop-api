@@ -23,7 +23,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import ilotte.com.model.Cart;
 import ilotte.com.model.CustomerAddress;
 import ilotte.com.model.Order;
 import ilotte.com.model.OrderDetail;
@@ -250,7 +249,7 @@ public class ProcessingController {
 			}
 		}
 
-		return new ResponseEntity<Cart>(HttpStatus.OK);
+		return new ResponseEntity<Order>(HttpStatus.OK);
 	}
 
 	@RequestMapping(value = "/submitOrder/{order_id}", method = RequestMethod.GET)
