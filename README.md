@@ -1,4 +1,4 @@
-# olshop-ilotte
+# olshop-api
 Technology : JAVA and Spring Boot
 
 ADMIN
