@@ -1,0 +1,15 @@
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/Application.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/service/AddressService.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/model/PaymentMethod.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/model/Role.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/service/UserService.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/controller/ProcessingController.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/security/SecurityConfiguration.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/model/CustomerAddress.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/model/OrderDetail.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/model/Product.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/model/User.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/model/Order.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/service/PaymentMethodService.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/model/Category.java
+/Users/roulisoufina/Documents/test_github/olshop-api/src/main/java/ilotte/com/service/ProductService.java
