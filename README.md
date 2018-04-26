@@ -1,5 +1,5 @@
 # olshop-api
-Technology : Spring Boot in a Docker Container
+Technology : Spring Boot with Docker
 
 ADMIN
 1. username : admin, password : admin
